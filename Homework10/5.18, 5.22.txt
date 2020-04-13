@@ -1,0 +1,20 @@
+Question 18
+Boolean values Answers
+a- False
+b- False
+c-True
+d- False
+e-True
+f-False
+g- False
+h-True
+i- false
+
+Question 22
+
+a-(!(x < 5) || (y >= 7);
+b-!((a == b) && (g != 5 ));
+c- (!(x <= 8) || !(y > 4));
+d- (!(i > 4) && !(j <= 6));
+
+

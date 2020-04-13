@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\sh0u\Google Drive\Cpp\Homework15\Homework15\Source.cpp(53,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\sh0u\Google Drive\Cpp\Homework15\Homework15\Source.cpp(55,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sh0u\Google Drive\Cpp\Homework15\Homework15\Source.cpp(60,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sh0u\Google Drive\Cpp\Homework15\Homework15\Source.cpp(61,21): warning C4018: '<': signed/unsigned mismatch
+  Homework15.vcxproj -> C:\Users\sh0u\Google Drive\Cpp\Homework15\Homework15\Debug\Homework15.exe

@@ -1,0 +1,5 @@
+﻿  Source.cpp
+  TortAndHare.cpp
+C:\Google Drive\Cpp\01 - Fall19\Homework17\TortAndHare.cpp(8,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Homework17.vcxproj -> C:\Google Drive\Cpp\01 - Fall19\Homework17\Debug\Homework17.exe

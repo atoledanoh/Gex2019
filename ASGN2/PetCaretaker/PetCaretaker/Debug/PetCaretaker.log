@@ -1,0 +1,6 @@
+﻿  myPet.cpp
+  Source.cpp
+  Generating Code...
+C:\Users\sh0u\Google Drive\Cpp\ASGN2\PetCaretaker\PetCaretaker\myPet.cpp(12,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\sh0u\Google Drive\Cpp\ASGN2\PetCaretaker\PetCaretaker\myPet.cpp(19): warning C4717: 'myPet::talk': recursive on all control paths, function will cause runtime stack overflow
+  PetCaretaker.vcxproj -> C:\Users\sh0u\Google Drive\Cpp\ASGN2\PetCaretaker\Debug\PetCaretaker.exe
